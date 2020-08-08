@@ -1,1 +1,1 @@
-# mything
+https://socalledsound.github.io/niftyMouseFollower/.
